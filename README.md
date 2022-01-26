@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Github Credit-Risk data to better understand:
+For this project, I was interested in using Github Credit-Risk data to better understand:
 
 1. How people purchase credit with regards to duration??
 2. What factors about an individual contributed to salary?
