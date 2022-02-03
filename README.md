@@ -22,6 +22,8 @@ For this project, I was interested in using Github Credit-Risk data to better un
 3. What Job Category takes a bigger credit amount?
 4. What can we deduce from customer segmentation?
 
+Article is available [here](https://medium.com/@max.chuka.aniakor/4-key-questions-to-know-your-customers-from-credit-data-be82f644417c)
+
 The main data file related to this course is available [here](https://raw.githubusercontent.com/SaravananJaichandar/Credit-Risk-Model/master/german_credit_data.csv).
 
 ## File Descriptions <a name="files"></a>
