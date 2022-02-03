@@ -1,4 +1,4 @@
-## What Insights can we gather from Customer Credit Data ?
+## 4 Key Questions to know your Customers from Credit Data ?
 
 ### Table of Contents
 
